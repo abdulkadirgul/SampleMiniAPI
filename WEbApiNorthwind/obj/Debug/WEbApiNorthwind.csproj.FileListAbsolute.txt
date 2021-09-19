@@ -1,0 +1,244 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.dll.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.rsp
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.rsp
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.AppContext.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Collections.Immutable.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Console.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Globalization.Calendars.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.Compression.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.FileSystem.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Net.Http.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Net.Sockets.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.ValueTuple.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XPath.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.rsp
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\VBCSCompiler.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\VBCSCompiler.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.SqlServer.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Newtonsoft.Json.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Net.Http.Formatting.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.WebHost.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.SqlServer.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Newtonsoft.Json.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Net.Http.Formatting.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.WebHost.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.CopyComplete
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Cors.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.Cors.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\10-API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.Cors.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.dll.config
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.pdb
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.exe
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.exe.config
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.rsp
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.exe
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.exe.config
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.rsp
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.AppContext.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Console.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.Compression.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Net.Http.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.ValueTuple.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.exe
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.exe.config
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.rsp
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\VBCSCompiler.exe
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Net.Http.Formatting.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Cors.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.Cors.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.WebHost.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.SqlServer.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.Cors.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Newtonsoft.Json.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Net.Http.Formatting.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.WebHost.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.CopyComplete
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.dll
+C:\Users\Monster\Desktop\Github BilgeAdam\10-WEB API\16.09\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.pdb
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.dll.config
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\WEbApiNorthwind.pdb
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.exe
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.exe.config
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csc.rsp
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.exe
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.exe.config
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\csi.rsp
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.AppContext.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Console.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.Compression.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Net.Http.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.ValueTuple.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.exe
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.exe.config
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\vbc.rsp
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\VBCSCompiler.exe
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\Antlr3.Runtime.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Net.Http.Formatting.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Cors.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Helpers.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.Cors.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.WebHost.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Mvc.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Optimization.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Razor.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.WebPages.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.WebPages.Razor.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\WebGrease.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\xunit.abstractions.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\xunit.core.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\Antlr3.Runtime.pdb
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\EntityFramework.SqlServer.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Helpers.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.Cors.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Mvc.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Optimization.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Razor.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.WebPages.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.WebPages.Razor.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\xunit.abstractions.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\xunit.core.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\Newtonsoft.Json.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Net.Http.Formatting.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\System.Web.Http.WebHost.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.csproj.CopyComplete
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.dll
+C:\Users\Monster\Desktop\WEbApiNorthwind\WEbApiNorthwind\obj\Debug\WEbApiNorthwind.pdb

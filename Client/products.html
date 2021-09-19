@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ürünler</title>
+    <!--Bootstrap Css-->
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <!--Jquery-->
+    <script src="Scripts/jquery-3.6.0.js"></script>
+    <!--Bootstrap Js-->
+    <script src="Scripts/bootstrap.js"></script>
+    <!--SweetAlert-->
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="card-title">Ürün Ekle</h2>
+                    </div>
+                    <div class="card-body">
+                        <form>
+                            <div class="mb-3 row">
+                                <label>Ürün Adı:</label>
+                                <input id="productname" type="text" class="form-control" />
+                            </div>
+                            <div class="mb-3 row">
+                                <label>Fiyatı:</label>
+                                <input id="unitprice" type="text" class="form-control" />
+                            </div>
+                            <div class="mb-3 row">
+                                <label>Stok:</label>
+                                <input id="unitsinstock" type="text" class="form-control" />
+                            </div>
+                            <button id="save" class="btn btn-primary">Kaydet</button>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-9">
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="card-title">Ürünler</h2>
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Ürün Adı</th>
+                                    <th>Fiyatı</th>
+                                    <th>Stok Miktarı</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="products">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(function () {
+
+            //Ürünleri Getirme
+            function BringData(productsData) {
+                var tbody = $('#products');
+
+                for (var i = 0; i < productsData.length; i++) {
+                    var tr = `<tr>
+<td>${productsData[i].ProductId}</td>
+<td>${productsData[i].ProductName}</td>
+<td>${productsData[i].UnitPrice}</td>
+<td>${productsData[i].UnitsInStock}</td>
+<td><button id='${productsData[i].ProductId}' class='btn btn-xs btn-danger'>Sil</button></td>
+</tr>`;
+                    tbody.append(tr);
+                }
+
+
+            }
+
+
+            //Ürün Ekleme
+            $('#save').click(function (e) {
+
+                const ProductVM = {
+                    ProductName: $('#productname').val(),
+                    UnitPrice: $('#unitprice').val(),
+                    UnitsInStock:$('#unitsinstock').val()
+                }
+
+                $.ajax({
+                    method: 'Post',
+                    url: 'https://localhost:44329/api/products/',
+                    data: ProductVM,
+                    dataType: 'json',
+                    success: function (data) {
+                        BringData(data);
+
+                    }
+                }).done(function () {
+                    location.reload();
+                })
+
+
+                e.preventDefault();
+            })
+
+
+            //Veri Silme
+            $('#products').on('click', 'button', function () {
+
+                Swal.fire({
+                    title: 'Uyarı!',
+                    text: "silmek istediğinize emin misiniz?",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#3085d6',
+                    cancelButtonColor: '#d33',
+                    confirmButtonText: 'Evet, Eminim'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        const currentId = $(this).attr('id');
+                        $.ajax({
+                            method: 'Delete',
+                            url: 'https://localhost:44329/api/products/' + currentId,
+                            success: function (data) {
+                                Swal.fire(
+                                    'Bilgi',
+                                    data,
+                                    'success'
+                                ).then(function () {
+                                    location.reload();
+                                })
+                            }
+                        })
+                    }
+                })
+
+            })
+
+
+
+          //Asenkron javascript and xml (ajax)
+            $.ajax({
+                method: 'Get',
+                url:'https://localhost:44329/api/products/'
+            }).done(function (response) {
+                BringData(response);
+
+            })
+
+        })
+    </script>
+</body>
+</html>
